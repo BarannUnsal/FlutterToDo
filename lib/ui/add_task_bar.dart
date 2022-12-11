@@ -216,10 +216,10 @@ class _AddTaskPageState extends State<AddTaskPage> {
                 child: CircleAvatar(
                   radius: 14,
                   backgroundColor: index == 0
-                      ? yellowClr
+                      ? primaryClr
                       : index == 1
-                          ? primaryClr
-                          : pinkClr,
+                          ? pinkClr
+                          : yellowClr,
                   child: _selectedColor == index
                       ? Icon(Icons.done, color: Colors.white, size: 16)
                       : Container(),
