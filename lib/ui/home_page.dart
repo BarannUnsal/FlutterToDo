@@ -109,10 +109,6 @@ class _HomePageState extends State<HomePage> {
             } else {
               return Container();
             }
-            if(task.repeat == "Haftalık"){
-
-            }
-            if(task.repeat == "Aylık")
           },
         );
       }),
