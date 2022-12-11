@@ -1,16 +1,23 @@
-# todo_app
+# ToDo App
 
-A new Flutter project.
+WFP Final Project
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- [You can download apk](https://docs.flutter.dev/get-started/codelab)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Libraries I use:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- date_picker_timeline:
+- get_storage:
+- get: intl:
+- flutter_local_notifications
+- flutter_native_timezone.0
+- flutter_staggered_animations:
+- flutter_svg:
+- google_fonts:
+- sqflite: rxdart:
+
+You can enter your daily, weekly and monthly tasks and receive notifications when the time comes.
